@@ -6,10 +6,10 @@ This repository contains various algorithmic solutions and programming tasks, im
 
 ## 📁 Repository Structure
 
-- `Python/`  
+- `PT4WorkPy/`  
   Python implementations for each task are provided in this folder.
 
-- `C++/`  
+- `PT4Work/`  
   C++ implementations for each task are provided in this folder.
 
 ---
