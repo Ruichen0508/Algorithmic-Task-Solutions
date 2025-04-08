@@ -53,11 +53,6 @@ This repository contains various algorithmic solutions and programming tasks, im
 ### Python
 
 - Python 3.x  
-  Install the required libraries using:
-
-  ```bash
-  pip install -r requirements.txt
-  ···
   
 ### C++
 No additional dependencies needed beyond a C++ compiler (e.g., g++, clang++).
