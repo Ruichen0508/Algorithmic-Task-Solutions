@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LocalDebuggerCommand>c:\Program files (x86)\PT4\PT4Demo.exe</LocalDebuggerCommand>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerCommandArguments>-gIP25TechB -n999</LocalDebuggerCommandArguments>
+    <LocalDebuggerWorkingDirectory>.</LocalDebuggerWorkingDirectory>
+  </PropertyGroup>
+</Project>
