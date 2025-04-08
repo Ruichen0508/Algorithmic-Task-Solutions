@@ -62,10 +62,14 @@ This repository contains various algorithmic solutions and programming tasks, im
 ### C++
 No additional dependencies needed beyond a C++ compiler (e.g., g++, clang++).
 
-##📸 Run Example (Screenshots)
--🔧 Problem Initial State
-![IP25TechB1](image/IP25TechB1.png)
--✅ Solved State (C++ Version)
-![IP25TechB1_solved](image/IP25TechB1_solved.png)
--🐍 Solved State (Python Version)
-![IP25TechB1_solved_py](image/IP25TechB1_solved_py.png)
+## 📸 Run Example (Screenshots)
+
+- 🔧 Problem Initial State  
+  ![IP25TechB1](image/IP25TechB1.png)
+
+- ✅ Solved State (C++ Version)  
+  ![IP25TechB1_solved](image/IP25TechB1_solved.png)
+
+- 🐍 Solved State (Python Version)  
+  ![IP25TechB1_solved_py](image/IP25TechB1_solved_py.png)
+
